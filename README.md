@@ -1,6 +1,6 @@
 # EchoFind
 
-[![Version](https://img.shields.io/badge/version-1.1.1-blue)](https://github.com/CtrlAIStudio/echofind-backend/releases)
+[![Version](https://img.shields.io/badge/version-1.1.2-red)](https://github.com/CtrlAIStudio/echofind-backend/releases)
 
 
 **EchoFind** – Pesquisa Inteligente, Indexação e Automação de Playlists no YouTube.
